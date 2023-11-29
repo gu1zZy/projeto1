@@ -1,0 +1,26 @@
+.inputs {
+    margin: 2px 5px 20px 2px;
+}
+
+
+#ultimaDiv {
+    margin-bottom: 100px;
+    
+}
+
+.inputs input {
+    border-color: brown;
+}
+#Div-inputs p {
+    color: red;
+    font-weight: 900;
+}
+
+.padagrafo1 {
+    color: orange;
+    margin-left : 8px;
+}
+
+#presultado{
+    display: inline;
+}
